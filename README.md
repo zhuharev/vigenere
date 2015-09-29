@@ -1,6 +1,10 @@
 # vigenere
 alphabet independent vigenere chipher
 
+## gui
+
+***GUI available*** [zhuharev/vigenere-gui](https://github.com/zhuharev/vigenere-gui)
+
 ## usage
 
 ```
